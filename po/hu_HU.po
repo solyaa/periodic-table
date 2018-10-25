@@ -10,22 +10,22 @@ msgstr ""
 "PO-Revision-Date: 2017-10-06 10:10+0400\n"
 "Last-Translator: Stephen Pfaff\n"
 "Language-Team: Hungarian\n"
-"Language: en_US\n"
+"Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Periodic Table"
-msgstr "Periódusos"
+msgstr "Periódusos rendszer"
 
 msgid "Settings"
 msgstr "Beállítások"
 
 msgid "Language"
-msgstr "Nyelv"
+msgstr "Nyelvek"
 
 msgid "About"
-msgstr "Ról ről"
+msgstr "Rólam"
 
 msgid "English"
 msgstr "Angol"
@@ -55,7 +55,7 @@ msgid "Default language"
 msgstr "Alapértelmezett nyelv"
 
 msgid "State"
-msgstr "Állam"
+msgstr "Ismeretlen halmazállapotú"
 
 msgid "Solid"
 msgstr "Szilárd"
@@ -94,13 +94,13 @@ msgid "group"
 msgstr "csoport"
 
 msgid "Electronegativity"
-msgstr "Elektro<wbr>negativitás"
+msgstr "Elektronegativitás"
 
 msgid "Oxidation numbers"
 msgstr "Oxidációs számok"
 
 msgid "Electron configuration"
-msgstr "Elektron beßllφtßsa"
+msgstr "Elektron beállítás"
 
 msgid "Density"
 msgstr "Sűrűség"
@@ -142,7 +142,7 @@ msgid "Mohs scale"
 msgstr "Mohs-skála"
 
 msgid "Shear modulus"
-msgstr "Nyírási modulus"
+msgstr "Shear modulus"
 
 msgid "Young's modulus"
 msgstr "Young modulus"
@@ -157,19 +157,19 @@ msgid "Name"
 msgstr "Név"
 
 msgid "Latin name"
-msgstr "Latin neve"
+msgstr "Latin név"
 
 msgid "Version"
 msgstr "Verzió"
 
 msgid "Created"
-msgstr "Készült"
+msgstr "Készítette"
 
 msgid "Author"
 msgstr "Szerző"
 
 msgid "Write review"
-msgstr "Write áttekintés"
+msgstr "Írj véleményt"
 
 msgid "Noble gases"
 msgstr "Nemes gázok"
@@ -178,34 +178,34 @@ msgid "Inner transition elements"
 msgstr "Belső átmeneti elemek"
 
 msgid "Transition elements"
-msgstr "Átmeneti elemek"
+msgstr "Átmenetifémek"
 
 msgid "Metalloids"
 msgstr "Félfémek"
 
 msgid "Nonmetals"
-msgstr "Nagykönyvben meg van írva"
+msgstr "Többatomos nemfémek"
 
 msgid "Alkaline earth metals"
-msgstr "alkáliföldfémek"
+msgstr "Alkáliföldfémek"
 
 msgid "Metals"
-msgstr "Fémek"
+msgstr "Másodfajúfémek"
 
 msgid "Halogens"
 msgstr "Halogének"
 
 msgid "Alkali metals"
-msgstr "Alkáli fémek"
+msgstr "Alkálifémek"
 
 msgid "1.st ionization energy"
-msgstr "1.st Ionizációs energia"
+msgstr "Első ionizációs energia"
 
 msgid "2.nd ionization energy"
-msgstr "2.nd Ionizációs energia"
+msgstr "Második ionizációs energia"
 
 msgid "3.rd ionization energy"
-msgstr "3.rd Ionizációs energia"
+msgstr "Harmadik ionizációs energia"
 
 msgid "Stable isotopes"
 msgstr "Stabil izotóp"
@@ -217,7 +217,7 @@ msgid "Substance"
 msgstr "Anyag"
 
 msgid "Talc"
-msgstr "Talkum"
+msgstr "Zsírkő"
 
 msgid "Rock salt"
 msgstr "Kősó"
@@ -226,13 +226,13 @@ msgid "Limestone"
 msgstr "Mészkő"
 
 msgid "Fluorspar"
-msgstr "Folypát"
+msgstr "Fluorit"
 
 msgid "Apatite"
 msgstr "Apatit"
 
 msgid "Feldspar"
-msgstr "Földpát"
+msgstr "Földpátok"
 
 msgid "Quartz"
 msgstr "Kvarc"
@@ -262,7 +262,7 @@ msgid "Links"
 msgstr "Linkek"
 
 msgid "Source code"
-msgstr "Forráskód"
+msgstr "Forrás"
 
 msgid "Unknown"
 msgstr "Ismeretlen"
@@ -280,22 +280,22 @@ msgid "Italian"
 msgstr "Olasz"
 
 msgid "Danish"
-msgstr ""
+msgstr "Dán"
 
 msgid "Hungarian"
-msgstr ""
+msgstr "Magyar"
 
 msgid "Belarusian"
-msgstr ""
+msgstr "Fehérorosz"
 
 msgid "Croatian"
-msgstr ""
+msgstr "Horvát"
 
 msgid "Turkish"
-msgstr ""
+msgstr "Török"
 
 msgid "Finnish"
-msgstr ""
+msgstr "Finn"
 
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikai"
